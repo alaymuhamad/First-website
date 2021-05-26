@@ -1,0 +1,138 @@
+body{
+    margin: 0%;
+    text-align: center;
+    color: rgb(126, 126, 126);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+h1{
+   font-size: 150px;
+   color: cadetblue;
+   font-weight: normal;
+   margin: 50px auto 0 auto;
+
+}
+
+h2{
+    font-size: 3rem;
+    color: cadetblue;
+    padding-bottom: 10px;
+}
+
+hr{
+    border: dotted rgb(209, 234, 235) 6px;
+    border-bottom: none;
+    width: 6%;
+    margin: 100px auto;
+}
+
+a{
+    margin: 1%;
+    text-decoration: none;   
+}
+
+a:hover{
+    color: crimson;
+}
+.top-container{
+    background-color: azure;
+    position: relative;
+    padding-top: 100px;
+
+
+}
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+
+ 
+
+}
+.bottom-cloud{
+    position: absolute; 
+    left: 200px;
+    bottom: 100px;
+
+}
+
+
+
+.profile{
+    
+    margin: 100px auto;
+    
+}
+
+.ali{
+    width: 20%;
+}
+
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.image1{
+    width: 22%;
+    float: left;
+    margin-right: 30px;
+}
+
+.image2{
+    width: 22%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 30px auto;
+    
+}
+
+.btn {
+   
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #1199E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #1199E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #1199E);
+    background-image: -o-linear-gradient(top, #11CDD4, #1199E);
+    background-image: linear-gradient(to bottom, #11CDD4, #1199E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4ED);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4ED);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4ED);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4ED);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4ED);
+    text-decoration: none;
+  }
+
+  .bottom-container{
+      margin: 40px auto;
+      background-color: rgb(210, 255, 253);
+      padding: 50px 0 20px;
+      margin: 0 auto; 
+  }
+
